@@ -1,1 +1,1 @@
-Black-Box Label-Level Backdoor Detection for Graph Classifiers: A Data-Driven Approach
+Data-Driven Label-Level Backdoor Detection for GNN-based Graph Classifiers
